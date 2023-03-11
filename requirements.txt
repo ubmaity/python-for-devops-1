@@ -1,1 +1,1 @@
-commitzen
+commitzen=1.2
